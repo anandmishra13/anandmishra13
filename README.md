@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on any JavaScript project
-- 📫 to reach me ping in LinkedIn https://www.linkedin.com/in/anand-mishra-102047159/
+- 📫 to reach me ping in LinkedIn https://www.linkedin.com/in/anandmishra13/
 
 <!---
 anandmishra13/anandmishra13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
